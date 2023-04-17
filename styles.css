@@ -1,0 +1,98 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(54, 100, 161);
+}
+
+.my-button {
+    background-color: rgb(211, 224, 135);
+    width: 75px;
+    height: 75px;
+    outline: 0cm;
+    border: 0ch;
+    margin-top: 8px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.my-button:active {
+    background-color: rgb(76, 80, 54);
+    width: 80px;
+    height: 80px;
+    outline: 0cm;
+    border: 0ch;
+    margin-top: 8px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.my-button:hover {
+    background-color: rgb(157, 163, 124);
+    width: 75px;
+    height: 75px;
+    outline: 0cm;
+    border: 0ch;
+    margin-top: 8px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.calculator {
+    margin-right: 105px;
+    margin-top: 135px;
+    text-align: center;
+}
+
+textarea {
+    border: 0ch;
+    outline: 0ch;
+    background-color: blueviolet;
+}
+
+.special-button {
+    background-color: rgb(163, 70, 163);
+    width: 310px;
+    height: 75px;
+    outline: 0cm;
+    border: 0ch;
+    margin-top: 8px;
+    margin-left: 40px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.reset-button {
+    background-color: rgb(89, 190, 157);
+    width: 150px;
+    height: 75px;
+    outline: 0cm;
+    border: 0ch;
+    margin-top: 8px;
+    margin-left: 40px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.reset-button:hover {
+    background-color: rgb(86, 163, 137);
+    width: 150px;
+    height: 75px;
+    outline: 0cm;
+    border: 0ch;
+    margin-top: 8px;
+    margin-left: 40px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
