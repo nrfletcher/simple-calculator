@@ -3,7 +3,6 @@
     Supports addition, subtraction, multiplication, and division
 */
 
-
 // Declaring all calculator operation and number buttons
 const button7 = document.getElementById("button1");
 const button8 = document.getElementById("button2");
